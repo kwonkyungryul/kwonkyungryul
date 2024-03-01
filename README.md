@@ -49,6 +49,8 @@
   
   ![image](https://user-images.githubusercontent.com/68271830/235287626-6cf69f66-8b19-443a-bde0-9d08559d21c1.png)
 
+  ![Oracle Badge](https://img.shields.io/badge/Oracle-DB-red?logo=oracle)
+
 </p>
 </details>
 
